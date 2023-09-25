@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "my 1st post",
+      "dateTime": "sep 21, 2023  5:46:45 pm ",
+      "body": "complete online react course"
+    },
+    {
+      "id": 2,
+      "title": "my 2nd post",
+      "dateTime": "Sep 24, 2023 9:11:52 PM",
+      "body": "complete online  javaScript course"
+    },
+    {
+      "id": 3,
+      "title": "my 3rd post",
+      "dateTime": "Sep 24, 2023 9:11:20 PM",
+      "body": "complete online  XML course"
+    }
+  ]
+}
